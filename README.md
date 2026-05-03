@@ -2,14 +2,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css"/>
 
 # <center>👋 Olá Mundo 🌎</center>
-<center><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUycDZ5NHRtNGtiMTB6MWFvZWZpMmRhbXRuaHdub3NpMHI2Zm5vZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10gLW3UdTnQzdu/giphy.gif" width="250"></center>
+<center><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUycDZ5NHRtNGtiMTB6MWFvZWZpMmRhbXRuaHdub3NpMHI2Zm5vZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10gLW3UdTnQzdu/giphy.gif" width="300"></center>
 <br>👾 Fauzi Asbahr, 25a.
 <br><span class="fi fi-br"></span> Ribeirão Preto, SP
 <br>🔬 Ciências da Computação | Unesp
 <br>🛠️ C, C#, Python, Java, Unity
 
-![FAsbahr20's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAsbahr20&show_icons=true&theme=dark)
-<!-- GitHub stat
+<!-- GitHub stat (não está funcionando...)
 ![FAsbahr20's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAsbahr20&show_icons=true&theme=dark)
 -->
 
